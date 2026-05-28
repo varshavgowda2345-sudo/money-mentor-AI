@@ -43,7 +43,7 @@ Existing finance apps are often too complex and built for financially educated u
 
 ---
 
-## 👤 2. Personalized Financial Profile
+##  2. Personalized Financial Profile
 
 Users can set:
 
