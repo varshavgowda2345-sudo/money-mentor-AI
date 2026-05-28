@@ -330,15 +330,9 @@ Build an AI-powered financial assistant that simplifies finance for everyone thr
 
 ---
 
-
-
 ## “Plan Smarter. Retire Earlier.”
 
 ---
-
-#  Team
-
-
 
 * varshavgowda2345-sudo
 * bhumika-a976
@@ -347,7 +341,4 @@ Build an AI-powered financial assistant that simplifies finance for everyone thr
 
 ---
 
-# License
 
-This project is built for educational and hackathon purposes.# money-mentor-AI
-AI- powered financial guidance app
